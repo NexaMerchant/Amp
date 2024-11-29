@@ -2,7 +2,8 @@
     "name": "nexa-merchant/amp",
     "license": "MIT",
     "type": "library",
-    "description" : "Amp Apps",
+    "description" : "Amp Package for NexaMerchant",
+    "keywords": ["amp", "nexamerchant", "laravel", "package"],
     "authors": [
         {
             "name": "Steve",
@@ -36,5 +37,5 @@
         }
     },
     "homepage": "https://nexamerchant.github.io/docs/",
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }

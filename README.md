@@ -5,6 +5,8 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/Nexa-Merchant/Amp.svg?style=flat-square)](https://packagist.org/packages/Nexa-Merchant/Amp)
 [![Total Downloads](https://img.shields.io/packagist/dt/Nexa-Merchant/Amp.svg?style=flat-square)](https://packagist.org/packages/Nexa-Merchant/Amp)
 
+Amp is a Laravel package that provides a simple way to create AMP pages.
+
 # How to Install
 
 ```

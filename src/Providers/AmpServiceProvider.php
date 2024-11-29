@@ -83,11 +83,6 @@ class AmpServiceProvider extends ServiceProvider
         $this->mergeConfigFrom(
             dirname(__DIR__) . '/Config/Amp.php', 'Amp'
         );
-
-        // api docs
-        $this->mergeConfigFrom(
-            dirname(__DIR__) . '/Config/l5-swagger.php', 'l5-swagger.documentations'
-        );
         
     }
 
